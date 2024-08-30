@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "A simple collaborative whiteboard using socket.io",
   "main": "index.js",
-  "keywords": [
-    "socket.io",
-    "whiteboard"
-  ],
+  "keywords": [ "socket.io", "whiteboard" ],
   "dependencies": {
-    "express": "~4.17.1",
+    "express": "5.0.0-beta.3",
     "socket.io": "^4.0.0"
   },
   "scripts": {
